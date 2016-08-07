@@ -1,0 +1,17 @@
+/***************************************************
+* Main Style: Photo Gallery Website
+* Author: Eyob Tariku
+* Company Name: Zigzag Studio
+* Written Date: 2016 April 01
+* Version: 1.0
+* Last Updated: -
+* Description: 
+******************/
+
+.message {
+	color: deeppink;
+	font-size: 1.2em;
+	font-family: Courier, monospace;
+	font-weight: bold;
+	line-height: 2;
+}
